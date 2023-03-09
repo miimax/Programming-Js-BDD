@@ -4,7 +4,7 @@ class HomePage {
         cy.visit("https://qaautomationlabs.com/");
     }
     validateMenus(menus) {
-        cy.contains(menus222222);
+        cy.contains(menus);
         return this;
     }
     verifyPageTitle() {

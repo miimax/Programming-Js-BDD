@@ -1,5 +1,5 @@
 class HomePage {
-    //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    //bbbbbbbbbbbbbbbbbb2222222222222222222222
     enterURL() {
         cy.visit("https://qaautomationlabs.com/");
     }
